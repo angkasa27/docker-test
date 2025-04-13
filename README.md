@@ -3,6 +3,9 @@
 Init new docker
 `docker init`
 
+Run Docker Compose (make sure has compose.yaml)
+`docker compose up`
+
 Check all running container
 `docker ps`
 
