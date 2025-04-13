@@ -17,4 +17,11 @@ or
 `docker rm [3digits] --force` to kill it
 
 
+*PUBLISH DOCKER IMAGE*
+
+tag it 
+`docker tag react-docker angkasa27/react-docker`
+
+then push it
+`docker push angkasa27/react-docker`
 
