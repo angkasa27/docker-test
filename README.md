@@ -1,3 +1,8 @@
+*COMMAND*
+
+Init new docker
+`docker init`
+
 Check all running container
 `docker ps`
 
